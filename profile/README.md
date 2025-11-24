@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="600" alt="header" src="img/header.png">
+<img width="600" alt="header" src="../img/header.png">
 
 <h1>MUMUL 🟣</h1>
 <p><b>익명 기반 Ask Me Anything 커뮤니티 플랫폼</b></p>
@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVoluntain-SKKU%2FVoluntain-2nd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://komarev.com/ghpvc/?username=MUMULorg&label=Visitors&color=8a2be2&style=flat-square" />
 
 </div>
 
@@ -79,15 +79,15 @@
 ## 📺 화면 구성
 | 메인 화면 | 로그인 화면 |
 |:--:|:--:|
-| <img width="329" src="img/intro.png"/> | <img width="329" src="img/login.png"/> |
+| <img width="329" src="../img/intro.png"/> | <img width="329" src="../img/login.png"/> |
 
 | 내 스페이스 | 질문 팝업 |
 |:--:|:--:|
-| <img width="329" src="img/myspace.png"/> | <img width="329" src="img/ask.png"/> |
+| <img width="329" src="../img/myspace.png"/> | <img width="329" src="../img/ask.png"/> |
 
 | 답변 팝업 | 설정 화면 |
 |:--:|:--:|
-| <img width="329" src="img/answer.png"/> | <img width="329" src="img/settings.png"/> |
+| <img width="329" src="../img/answer.png"/> | <img width="329" src="../img/settings.png"/> |
 
 ---
 
