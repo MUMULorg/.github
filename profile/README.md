@@ -29,14 +29,25 @@
 
 ---
 
-## 🚀 배포 & 레포지토리
+## 📂 레포지토리
+> ※ 현재 서비스 배포는 중단된 상태입니다.
+
 | 구분 | 링크 |
 |------|------|
-| 배포 URL | https://mumul.site |
 | Backend | https://github.com/silver0-stack/mumul_back |
 | Frontend | https://github.com/silver0-stack/mumul_front |
 
 ---
+
+## 📊 QA 이슈 트래킹 시트
+프로젝트 기능 개발 및 리그레션 테스트 과정을 문서화하여  
+**기능 안정성 확보와 품질 개선**에 활용했습니다.
+
+📎 문서 링크 →  
+https://docs.google.com/spreadsheets/d/11lDJRfHWcFrfcR4gDCXowWn0O10LXPsmSkg1CZzDbkc/edit?gid=0#gid=0
+
+---
+
 
 ## 👥 개발 팀
 |      최은영       |          노수진       |
@@ -110,7 +121,6 @@ git clone https://github.com/silver0-stack/mumul_back.git
 ## 🏁 프로젝트 의의
 MUMUL은 단순한 익명 커뮤니티가 아니라  
 **서로의 질문에 응답하고 공감하며 성장을 도울 수 있는 디지털 AMA 플랫폼**을 목표로 합니다.
-
 “무엇이든 물어보세요(무물)”이라는 표현처럼  
 누구나 가볍게 질문하고, 진심을 담아 답할 수 있는 공간을 추구합니다.
 
