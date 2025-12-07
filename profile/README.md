@@ -43,8 +43,7 @@
 프로젝트 기능 개발 및 리그레션 테스트 과정을 문서화하여  
 **기능 안정성 확보와 품질 개선**에 활용했습니다.
 
-📎 문서 링크 →  
-https://docs.google.com/spreadsheets/d/11lDJRfHWcFrfcR4gDCXowWn0O10LXPsmSkg1CZzDbkc/edit?gid=0#gid=0
+📎[PDF문서 링크](https://drive.google.com/file/d/1ID0IgbmVkkjxqeBkZpT_GR9xRKSbYcTH/view?usp=sharing)
 
 ---
 
